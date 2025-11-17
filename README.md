@@ -46,7 +46,5 @@
 
 [store/任务3/编后感.md at main · longwencai/store](https://github.com/longwencai/store/blob/main/任务3/编后感.md)
 
-5、链接
-
-[三国杀](file:///C:/Users/P14s/Desktop/Geek任务/HTML学习/静态网页.html)
+5、网页链接见GitHub pages
 
